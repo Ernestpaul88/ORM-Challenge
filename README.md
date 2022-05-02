@@ -11,7 +11,6 @@ Back end for an e-commerce site with an Express.js API configured to use Sequeli
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Questions](#questions)
 
 ## Installation:
 
