@@ -26,7 +26,7 @@ Back end for an e-commerce site with an Express.js API configured to use Sequeli
 - Populate Tables: run 'npm run seed' from the root directory of the project
 - Start Project: run 'npm start' from the root directory.
 
-Checkout the [video](https://drive.google.com/file/d/1nQZiMXdbi4KkwnsAWk_5mMXzou10DBgq/view) to see a full demonstration.
+Checkout the [video](https://drive.google.com/file/d/12A_J3kKE3ht_o20weZWW_onrsJF-v4MY/view) to see a full demonstration.
 
 ## License:
 
